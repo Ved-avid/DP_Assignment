@@ -24,7 +24,7 @@ class Parent{
 }
 
 class Child extends Parent{
-    public Child(String l,int e, int h, String p){
+    public Child(String l,int e, float h, String p){
         super(l,e, h, p);
     }
     public void name(){
